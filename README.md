@@ -1,6 +1,6 @@
 # ScamShield — Fraud and scam detection engine — analyze messages for phishing, urgency tricks, and financial scam patterns
 
-Fraud and scam detection engine — analyze messages for phishing, urgency tricks, and financial scam patterns. ScamShield gives you a focused, inspectable implementation of that idea.
+Fraud and scam detection engine — analyze messages for phishing, urgency tricks, and financial scam patterns.
 
 ## Why ScamShield
 
